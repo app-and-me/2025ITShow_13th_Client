@@ -44,7 +44,7 @@ const ButtonContainer = styled.div`
   width: 100%;
   padding: 0 10%;
 
-  gap: 3.125rem;
+  gap: 3.125rem
 `
 
 export const HomePage = () => {
